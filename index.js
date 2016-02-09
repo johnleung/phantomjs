@@ -19,6 +19,11 @@ app.listen(app.get('port'), function() {
 });
 */
 
+console.log('sadsa');
+
+
+/*
+
 var phantom = require('phantom');
 
 phantom.create(function(ph) {
@@ -31,3 +36,5 @@ phantom.create(function(ph) {
 
 	});
 });
+
+*/
