@@ -24,6 +24,5 @@
     "express"
   ],
   "license": "MIT",
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
